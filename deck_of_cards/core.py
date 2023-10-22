@@ -3,5 +3,10 @@
 # %% auto 0
 __all__ = ['foo']
 
-# %% ../nbs/00_core.ipynb 3
-def foo(): pass
+# %% ../nbs/00_core.ipynb 2
+import random
+
+# %% ../nbs/00_core.ipynb 5
+def foo(name:str = 'Levy'):
+    "Print name of the person with a little hello message :3 (and a prediction with 99% accuracy of lifespan in years)"
+    return f"Hello {name}, you have {random.randint(10, 100)} years of life remaining..."
