@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "deck_of_cards",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "deck_of_cards",
+    "section": "Install",
+    "text": "Install\npip install deck_of_cards"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "deck_of_cards",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "The function foo\n\nsource\n\nfoo\n\n foo (name:str='Levy')\n\nPrint name of the person with a little hello message :3 (and a prediction with 99% accuracy of lifespan in years)\n\nfoo(\"Steven\")\n\n'Hello Steven, you have 54 years of life remaining...'"
+  }
+]
