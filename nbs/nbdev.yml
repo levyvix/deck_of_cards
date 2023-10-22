@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "deck_of_cards"
+  site-url: "https://levyvix.github.io/deck_of_cards"
+  description: "A playing deck of cards"
+  repo-branch: main
+  repo-url: "https://github.com/levyvix/deck_of_cards"
